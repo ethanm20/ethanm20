@@ -1,4 +1,4 @@
-## Hi there, I'm Ethan 👋 
+## Hi there, I'm Ethan 😊
 
 <!--
 **ethanm20/ethanm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
 
-### Contact Details
-[![website](./assets/github.svg)](https://github.com/ethanm20)
-[![website](./assets/linkedin.svg)](https://www.linkedin.com/in/ethan-marlow/)
 [![website](./assets/globe.svg)](https://www.ethanmarlow.com)
+[![website](./assets/linkedin.svg)](https://www.linkedin.com/in/ethan-marlow/)
+[![website](./assets/github.svg)](https://github.com/ethanm20)
+
