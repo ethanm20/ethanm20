@@ -1,5 +1,3 @@
-## Ethan Marlow
-
 ## Hi there 👋 I'm Ethan
 
 <!--
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="/" class="navbar-brand" style="display: flex; width: 105px;"><div style="border: 1px solid rgb(0,0,0); padding: 3px;">E.M.</div></a>
+
