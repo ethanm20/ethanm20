@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 ### About Me
 
 ### Contact Details
+[![website](./assets/github.svg)](https://github.com/ethanm20)
+[![website](./assets/linkedin.svg)](https://www.linkedin.com/in/ethan-marlow/)
+[![website](./assets/globe.svg)](https://www.ethanmarlow.com)
