@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ethan
+## Hi there, I'm Ethan 👋 
 
 <!--
 **ethanm20/ethanm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About Me
 
+### Contact Details
