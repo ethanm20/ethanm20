@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="/" class="navbar-brand" style="display: flex; width: 105px;"><div style="border: 1px solid rgb(255, 255, 255); padding: 3px;">E.M.</div></a>
+<a href="/" class="navbar-brand" style="display: flex; width: 105px;"><div style="border: 1px solid #000; padding: 3px;">E.M.</div></a>
