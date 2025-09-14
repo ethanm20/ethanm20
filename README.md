@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+A highly motivated and detail focused Full-Stack Developer with experience in Python (Flask/Django), React/TypeScript and PHP. All backed up with a Computer Science degree from the University of New South Wales, Sydney and hands-on technical experience.
 
 [![website](./assets/globe.svg)](https://www.ethanmarlow.com)
 [![website](./assets/linkedin.svg)](https://www.linkedin.com/in/ethan-marlow/)
